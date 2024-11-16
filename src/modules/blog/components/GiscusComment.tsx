@@ -11,7 +11,7 @@ const GiscusComment = ({ isEnableReaction = false }: GiscusComment) => {
   return (
     <div className='mt-5 mb-2'>
       <Giscus
-        repo='abdul23lm/techwhizabdul.com'
+        repo='abdul23lm/codebyabdul.com'
         repoId='R_kgDOJoIhfQ'
         category='General'
         categoryId='DIC_kwDOJoIhfc4CW6cJ'

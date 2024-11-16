@@ -6,7 +6,7 @@ const Copyright = () => {
       <span>-</span>
       <a href='/' target='_blank' rel='noopener noreferrer'>
         <span className='hover:dark:text-neutral-400 cursor-pointer'>
-          techwhizabdul.com
+          codebyabdul.com
         </span>
       </a>
     </div>

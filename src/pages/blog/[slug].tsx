@@ -26,7 +26,7 @@ const BlogDetailPage: NextPage<BlogDetailPageProps> = ({ blog }) => {
   const newSlug = formatBlogSlug(blogData.slug);
   const slug = `blog/${newSlug}?id=${blogData?.id}`;
 
-  const canonicalUrl = `https://techwhizabdul.com//${slug}`;
+  const canonicalUrl = `https://codebyabdul.com//${slug}`;
 
   blogData.blog_slug = slug;
 

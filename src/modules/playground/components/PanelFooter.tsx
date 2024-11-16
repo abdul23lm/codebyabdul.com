@@ -19,7 +19,7 @@ const PanelFooter = ({
   return (
     <div className='flex items-center justify-between bg-neutral-900 border border-neutral-700 border-t-0 py-1 px-2 rounded-b-md'>
       <div className='text-sm font-sora items-center text-neutral-500'>
-        &copy; <a href='https://techwhizabdul.com'>abdul23lm</a>
+        &copy; <a href='https://codebyabdul.com'>abdul23lm</a>
       </div>
       {isFullScreen ? (
         <Tooltip title='Close'>

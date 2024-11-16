@@ -36,7 +36,7 @@ const LearnContentPage: NextPage<ContentPageProps> = ({
     (a, b) => a.frontMatter.id - b.frontMatter.id
   );
 
-  const canonicalUrl = `https://techwhizabdul.com/learn/${content?.slug}`;
+  const canonicalUrl = `https://codebyabdul.com/learn/${content?.slug}`;
 
   return (
     <>
